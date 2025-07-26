@@ -1,4 +1,5 @@
-<img width="922" height="216" alt="Banner" src="https://github.com/user-attachments/assets/e46bdd4e-fb99-479a-9974-0d172d6cdd1e" />
+<img width="922" height="214" alt="Banner" src="https://github.com/user-attachments/assets/285981bf-7642-4938-8429-728651f1812d" />
+
 
 ## 🚀 About Me
 I'm a passionate software developer with a love for creating innovative solutions. I specialize in **PHP**, **JavaScript**, and **Python**. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects. Originally from 🇻🇪, now based on 🇨🇱
