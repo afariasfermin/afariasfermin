@@ -1,6 +1,5 @@
 <img width="922" height="216" alt="Banner" src="https://github.com/user-attachments/assets/e46bdd4e-fb99-479a-9974-0d172d6cdd1e" />
 
-
 ## 🚀 About Me
 I'm a passionate software developer with a love for creating innovative solutions. I specialize in **PHP**, **JavaScript**, and **Python**. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects. Originally from 🇻🇪, now based on 🇨🇱
 
@@ -14,12 +13,6 @@ I'm a passionate software developer with a love for creating innovative solution
 - **Databases**: MariaDB, PostgreSQL
 - **Tools**: Git, Docker, Jupyter Notebook
 
-## 📈 GitHub Stats
-<div style="display: flex; flex-direction: column; gap: 2px; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afariasfermin&count_private=true&show_icons=true&theme=dracula&bg_color=-45deg,282A36,3D3344" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afariasfermin&theme=dracula&bg_color=-45deg,282A36,3D3344&layout=compact&langs_count=6" />
-</div>
-
 ## 🤝 Connect with Me
 - 📫 How to reach me: alvaro.farias@protonmail.com
 - [LinkedIn](https://www.linkedin.com/in/afarissfermin)
@@ -29,3 +22,9 @@ I'm a passionate software developer with a love for creating innovative solution
 - Web Development
 - Open Source Contributions
 - Tech Blogging
+
+## 📈 GitHub Stats
+<div style="display: flex; flex-direction: column; gap: 2px; align-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afariasfermin&count_private=true&show_icons=true&theme=dracula&bg_color=-45deg,282A36,3D3344" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afariasfermin&theme=dracula&bg_color=-45deg,282A36,3D3344&layout=compact&langs_count=6" />
+</div>
